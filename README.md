@@ -1,2 +1,2 @@
 # polytangent
-The tangent of a polynomial written in different languages!
+The tangent of a polynomial written in JavaScript!
