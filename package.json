@@ -1,0 +1,23 @@
+{
+  "name": "polytan",
+  "version": "1.0.0",
+  "description": "The tangent of a polynomial written in JavaScript! ",
+  "main": "polytan.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intfract/polytangent.git"
+  },
+  "keywords": [
+    "polynomial",
+    "tangent"
+  ],
+  "author": "intfract",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/intfract/polytangent/issues"
+  },
+  "homepage": "https://github.com/intfract"
+}
